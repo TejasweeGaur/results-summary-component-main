@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/Web.design.png)
-![](./screenshots/Mobile.design.png)
+![Web Design](./screenshots/Web_design.png)
+![Mobile Design](./screenshots/Mobile.design.png)
 
 
 ### Links
